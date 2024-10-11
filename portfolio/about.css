@@ -1,0 +1,21 @@
+html{
+    background-color: rgba(28,28,34,255);
+  }
+bodyy{
+    background-color:rgba(28,28,34,255);
+    font-family: monospace;
+    position: absolute;
+    right: 1000px;
+    top: 200px;
+    color: rgb(255, 0, 0);
+    text-align: left;
+}
+.about{
+    font-size: 100px;
+    color: rgba(230, 6, 6, 0.993);
+}
+.content{
+    font-size: 15px;
+    color: #ff0202;
+    word-spacing:normal;
+}
